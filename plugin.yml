@@ -1,0 +1,45 @@
+main: q2p.quickclick.QuickClick
+name: VillaPlugin
+version: 1.0
+author: idk
+description: Meta Plugin
+commands:
+  build:
+    description: Building
+    usage: /build <arguments...>
+  modifie:
+    description: Modifications
+    usage: /modifie <arguments...>
+  admin:
+    description: Manages players with admin status
+    usage: /admin <add|remove> <player name>
+  vacation:
+    description: Ban player
+    usage: /vacation <name>
+  endvacation:
+    description: Unban player
+    usage: /endvacation <name>
+  onvacation:
+    description: Checks if player is banned
+    usage: /onvacation <name>
+  register:
+    description: Registers player
+    usage: /register <password> <password>
+  login:
+    description: Logins player
+    usage: /login <password>
+  changepassword:
+    description: Changes password
+    usage: /changepassword <old password> <new password> <new password>
+  authfix:
+    description: Changes password
+    usage: /authfix <name> [new password] [new password]
+  benchmark:
+    description: Toggles benchmark
+    usage: /benchmark
+  mute:
+    description: Mutes a player
+    usage: /mute <name>
+  unmute:
+    description: Unmutes a player
+    usage: /unmute <name>

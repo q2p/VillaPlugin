@@ -1,2 +1,3 @@
 https://www.spigotmc.org/resources/skychanger.37524/
+https://ore.spongepowered.org/TheKraken7/SkyChanger
 https://github.com/dscalzi/SkyChanger
